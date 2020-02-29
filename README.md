@@ -45,6 +45,8 @@ https://www.professormesser.com/
 
 #### **Technical Knowledge**
 
+CENTER FOR DEVELOPMENT OF SECURITY EXCELLENCE (CDSE) - A great starting point when looking for specific technical information, has many references to policy sources, training and awareness, and toolkits. https://www.cdse.edu/toolkits/cybersecurity/index.php 
+
 Secret Key Exchange (Diffie-Hellman) - Computerphile https://www.youtube.com/watch?v=NmM9HA2MQGI
 
 Diffie Hellman -the Mathematics bit- - Computerphile https://www.youtube.com/watch?v=Yjrfm_oRO0w
@@ -86,4 +88,6 @@ https://www.isaca.org/bookstore/it-governance-and-business-management/w3itg
 NIST information security handbook https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-100.pdf
 
 #### **Tools and Software**
+
+Source Code Analysis Tools - https://owasp.org/www-community/Source_Code_Analysis_Tools
 
