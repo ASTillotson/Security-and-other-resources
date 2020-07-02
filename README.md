@@ -65,6 +65,8 @@ AES Explained - Computerphile https://www.youtube.com/watch?v=O4xNJsjtN6E
 
 AES Rijndael algorithm - Computerphile https://www.youtube.com/watch?v=VYech-c5Dic&t=5s
 
+Kerberos (and active directory) - Computerphile https://www.youtube.com/watch?v=qW361k3-BtU
+
 Hashing - Simply Explained - Savjee https://www.youtube.com/watch?v=cczlpiiu42M
 
 Breaking down TLS - F5 DevCentral https://www.youtube.com/watch?v=cuR05y_2Gxc
