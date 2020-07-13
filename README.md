@@ -59,8 +59,6 @@ Password Cracking - Computerphile https://www.youtube.com/watch?v=7U-RbOKanYs
 
 SHA - Computerphile https://www.youtube.com/watch?v=DMtFhACPnTY&t=413s
 
-I wonder what SHA3 is.
-
 AES Explained - Computerphile https://www.youtube.com/watch?v=O4xNJsjtN6E
 
 AES Rijndael algorithm - Computerphile https://www.youtube.com/watch?v=VYech-c5Dic&t=5s
@@ -87,7 +85,9 @@ Exploit Kits - https://blog.malwarebytes.com/cybercrime/2013/02/tools-of-the-tra
 
 https://www.isaca.org/bookstore/it-governance-and-business-management/w3itg
 
-NIST information security handbook https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-100.pdf
+NIST information security handbook - https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-100.pdf
+
+NIST SP 800-53, Requirements for handling federal data and databases - https://csrc.nist.gov/publications/detail/sp/800-53/rev-4/final 
 
 #### **Tools and Software**
 
